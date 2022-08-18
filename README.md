@@ -115,3 +115,7 @@ Read more about forking [here](https://docs.github.com/en/github/creating-clonin
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+## :raised_hands: I've finished this course!
+
+* I've made the modification in the README.md file, just for simplicity. Also, after I finish writing this file, I'll do the pull request.
